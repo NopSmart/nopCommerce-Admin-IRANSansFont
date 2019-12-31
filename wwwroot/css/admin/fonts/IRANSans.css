@@ -1,51 +1,62 @@
 ﻿@import url('fontiran.css');
 
 body {
-	font-family: IRANSans !important;
-	font-weight: 500;
-	font-size: 12px;
+    font-family: IRANSans !important;
+    font-weight: 500;
+    font-size: 12px;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family: IRANSans !important;
-	font-weight: bold;
+    font-family: IRANSans !important;
+    font-weight: bold;
+}
+
+h4, .h4 {
+    font-size: 16px;
 }
 
 .btn {
-	font-size: 12px;
-	font-weight: bold;
+    font-size: 12px;
+    font-weight: bold;
 }
 
 .treeview-menu > li > a {
-	font-size: 12px;
+    font-size: 12px;
 }
 
 .content-header > h1 {
-	font-size: 15px;
+    font-size: 15px;
 }
 
 .small-box p {
-	font-size: 12px;
+    font-size: 12px;
 }
+
 .btn-search {
-	font-size: 12px;
-	font-weight: bold;
+    font-size: 12px;
+    font-weight: bold;
 }
+
 #go-to-product-by-sku {
-	font-size: 14px;
+    font-size: 14px;
 }
+
 table.table-bordered.dataTable tbody th, table.table-bordered.dataTable tbody td {
-	text-align: center;
+    text-align: center;
 }
+
 .k-i-arrow-e {
-	background-position: 0 -48px;
+    background-position: 0 -48px;
 }
+
 .k-i-arrow-w {
-	background-position: 0 -16px;
+    background-position: 0 -16px;
 }
+
 input, button, select, textarea, .form-control, .dropdown-menu {
-	font-size: 12px;
+    font-size: 12px;
 }
+
 .dropdown-menu {
-	font-weight: 500;
+    font-weight: 500;
 }
